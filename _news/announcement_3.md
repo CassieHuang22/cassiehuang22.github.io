@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I presented at ACL 2026!
+I presented at [ACL 2025](https://2025.aclweb.org/)!

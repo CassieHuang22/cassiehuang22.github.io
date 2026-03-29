@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Join [Drexel University](https://drexel.edu/) as a PhD Student
+I joined [Drexel University](https://drexel.edu/) as a PhD Student.
