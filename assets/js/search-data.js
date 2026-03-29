@@ -391,16 +391,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-join-drexel-university-as-a-phd-student",
+          title: 'Join Drexel University as a PhD Student',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-our-paper-on-the-limit-of-language-models-as-planning-formalizers-has-been-accepted-to-acl-2025",
+          title: 'Our paper On the Limit of Language Models as Planning Formalizers has been...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-i-presented-at-acl-2026",
+          title: 'I presented at ACL 2026!',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
