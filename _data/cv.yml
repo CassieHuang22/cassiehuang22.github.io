@@ -1,9 +1,12 @@
-cv: 
-  name: Cassie Huang 
-  label: PhD Student 
-  email: Cassie.Huang@drexel.edu 
-  location: Philadelphia, PA 
-  image: "" 
+cv:
+  name: Cassie Huang
+  email: Cassie.Huang@drexel.edu
+  location: Philadelphia, PA
+  social_networks:
+    - network: GitHub
+      username: CassieHuang22
+    - network: LinkedIn
+      username: cassie-huang-35b396185
   summary: I'm a second year PhD student at Drexel University, advised by Prof. Harry Zhang. My research focuses on Natural Language Processing and Large Language Models (LLMs). My current projects involve using LLMs to generate formal language for planning and reasoning problems, and applying auto-formalization to different domains, including partially observable environments. 
   
   social_networks: 
@@ -11,20 +14,13 @@ cv:
       username: CassieHuang22 
     - network: LinkedIn 
       username: cassie-huang-35b396185 
-      
-  address: 
-    street: 3675 Market Street, Room 914 
-    city: Philadelphia 
-    region: Pennsylvania 
-    postalCode: PA 19104 
-    countryCode: US 
     
   sections: 
     Education: 
       - institution: Drexel University 
         location: Philadelphia, PA 
         area: Computer Science 
-        studyType: PhD 
+        degree: PhD 
         start_date: "2025" 
         end_date: "Present" 
         highlights: 
@@ -34,7 +30,7 @@ cv:
       - institution: University of Pennsylvania 
         location: Philadelphia, PA 
         area: Computer and Information Science 
-        studyType: Master of Science in Engineering 
+        degree: Master of Science in Engineering 
         start_date: 2022 
         end_date: 2024 
         highlights: 
@@ -43,7 +39,7 @@ cv:
       - institution: Boston University 
         location: Boston, MA 
         area: Mathematics and Computer Science 
-        studyType: Bachelor of Arts 
+        degree: Bachelor of Arts 
         start_date: 2018 
         end_date: 2022 
         highlights: 
@@ -51,33 +47,34 @@ cv:
           - Dean's List (Fall 2018 - Fall 2021) 
           - Thomas M. Menino Scholarship Recipient 
           
-    Research Experience: 
-      - title: PhD Student 
-        institution: Drexel University 
-        location: Philadelphia, PA 
-        start_date: 2024 
+    Research Experience:
+      - company: Drexel University
+        position: PhD Student
+        location: Philadelphia, PA
+        start_date: '2024-09'
         end_date: present
-        highlights: 
-          - Lead two complete research projects involving collaboration across institutions, resulting in NLP publications. 
-          - Leverage LLMs to auto-formalize complex reasoning and planning problems. - Evaluate LLM-as-formalizer in realistic planning tasks with constrained environments. 
+        highlights:
+          - Lead two complete research projects involving collaboration across institutions, resulting in NLP publications.
+          - Leverage LLMs to auto-formalize complex reasoning and planning problems.
+          - Evaluate LLM-as-formalizer in realistic planning tasks with constrained environments.
 
-      - title: Student Researcher 
-        institution: University of Pennsylvania
-        location: Philadelphia, PA 
-        start_date: 2023 
-        end_date: 2024 
-        highlights: 
-          - Extract interpretable lexical and stylistic features for authorship attribution. 
-          - Fine-tune BERT Sentence Transformers for embedding-based analysis. 
-          
-      - title: Student Researcher 
-        institution: Boston University 
-        location: Boston, MA 
-        start_date: 2019 
-        end_date: 2019 
-        highlights: 
-          - Studied ambiguity in natural language annotations using tracking datasets. 
-          - Designed MTurk experiments using HTML. 
+      - company: University of Pennsylvania
+        position: Student Researcher
+        location: Philadelphia, PA
+        start_date: '2023-09'
+        end_date: '2024-05'
+        highlights:
+          - Extract interpretable lexical and stylistic features for authorship attribution.
+          - Fine-tune BERT Sentence Transformers for embedding-based analysis.
+
+      - company: Boston University
+        position: Student Researcher
+        location: Boston, MA
+        start_date: '2019-06'
+        end_date: '2019-08'
+        highlights:
+          - Studied ambiguity in natural language annotations using tracking datasets.
+          - Designed MTurk experiments using HTML.
           
     Publications: 
       - title: Zur Elektrodynamik bewegter Körper 
