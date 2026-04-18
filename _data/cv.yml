@@ -26,12 +26,13 @@ cv:
         url: https://drexel.edu/
         area: Computer Science
         studyType: PhD
-        start_date: 2025
-        end_date: Present
+        start_date: "2025"
+        end_date: "Present"
         #score: ""
         #courses: "Theory of Relativity"
         highlights:
-          - "Advisor: Li ''Harry'' Zhang"
+          - 'Advisor: Li "Harry" Zhang'
+          - 'GPA: 4.00/4.00'
 
       - institution: Eidgenössische Technische Hochschule
         location: Zurich, Switzerland
