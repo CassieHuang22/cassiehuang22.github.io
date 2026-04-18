@@ -13,36 +13,44 @@ cv:
       username: https://www.linkedin.com/in/cassie-huang-35b396185/
 
   address:
-    street: 2205 Saint James Place, Apt. A3
+    street: 3675 Market Street, Room 914
     city: Philadelphia
     region: Pennsylvania
-    postalCode: PA 19103
+    postalCode: PA 19104
     countryCode: US
 
   sections:
     Education:
       - institution: Drexel University
         location: Philadelphia, PA
-        url: https://drexel.edu/
         area: Computer Science
         studyType: PhD
         start_date: "2025"
         end_date: "Present"
-        #score: ""
-        #courses: "Theory of Relativity"
         highlights:
           - 'Advisor: Li "Harry" Zhang'
           - 'GPA: 4.00/4.00'
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: University of Pennsylvania
+        location: Philadelphia, PA
+        area: Computer and Information Science
+        studyType: Master of Science in Engineering
+        start_date: 2022
+        end_date: 2024
         highlights:
-          - Description 1.
-          - Description 2.
+          - 'GPA: 3.63/4.00'
+
+      - institution: Boston University
+        location: Boston, MA
+        area: Mathematics and Computer Science
+        studyType: Bachelor of Arts
+        start_date: 2018
+        end_date: 2022
+        highlights:
+          - 'GPA: 3.93/4.00 (summa cum laude)'
+          - Dean's List (Fall 2018 - Fall 2021)
+          - Thomas M. Menino Scholarship Recipient
+
 
     Experience:
       - company: Institute for Advanced Study, Princeton University
@@ -82,32 +90,6 @@ cv:
         start_date: 1909
         end_date: 1911
 
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
 
     Publications:
       - title: Zur Elektrodynamik bewegter Körper
@@ -152,21 +134,6 @@ cv:
         icon: fa-solid fa-tag
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
 
     Projects:
       - name: Quantum Computing
@@ -176,12 +143,3 @@ cv:
           - Quantum Cryptography
         start_date: 2018-01-01
         end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
