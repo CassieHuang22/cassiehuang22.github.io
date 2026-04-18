@@ -1,19 +1,22 @@
 cv:
   name: Cassie Huang
-  email: Cassie.Huang@drexel.edu
-  location: Philadelphia, PA
-  social_networks:
-    - network: GitHub
-      username: CassieHuang22
-    - network: LinkedIn
-      username: cassie-huang-35b396185
+  email: Cassie.Huang@drexel.edu 
+  location: Philadelphia, PA 
+  image: "" 
   summary: I'm a second year PhD student at Drexel University, advised by Prof. Harry Zhang. My research focuses on Natural Language Processing and Large Language Models (LLMs). My current projects involve using LLMs to generate formal language for planning and reasoning problems, and applying auto-formalization to different domains, including partially observable environments. 
-  
+
   social_networks: 
     - network: GitHub 
       username: CassieHuang22 
     - network: LinkedIn 
       username: cassie-huang-35b396185 
+
+  address: 
+    street: 3675 Market Street, Room 914 
+    city: Philadelphia 
+    region: Pennsylvania 
+    postalCode: PA 19104 
+    countryCode: US 
     
   sections: 
     Education: 
