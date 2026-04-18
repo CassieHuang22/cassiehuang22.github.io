@@ -1,128 +1,102 @@
-cv:
-  name: Cassie Huang
-  label: PhD Student
-  email: Cassie.Huang@drexel.edu
-  location: Philadelphia, PA
-  image: ""
-  summary: I'm a second year PhD student at Drexel University, advised by Prof. Harry Zhang. My research focuses on Natural Language Processing and Large Language Models (LLMs). My current projects involve using LLMs to generate formal language for planning and reasoning problems, and applying auto-formalization to different domains, including partially observable environments.
+name: Cassie Huang
+label: PhD Student
+email: Cassie.Huang@drexel.edu
+location: Philadelphia, PA
+summary: I'm a second year PhD student at Drexel University, advised by Prof. Harry Zhang. My research focuses on NLP and LLMs.
 
-  social_networks:
-    - network: GitHub
-      username: CassieHuang22
-    - network: LinkedIn
-      username: cassie-huang-35b396185
+social_networks:
+  - network: GitHub
+    username: CassieHuang22
+  - network: LinkedIn
+    username: cassie-huang-35b396185
 
-  address:
-    street: 3675 Market Street, Room 914
-    city: Philadelphia
-    region: Pennsylvania
-    postalCode: PA 19104
-    countryCode: US
+address:
+  street: 3675 Market Street, Room 914
+  city: Philadelphia
+  region: Pennsylvania
+  postalCode: PA 19104
+  countryCode: US
 
-  sections:
-    Education:
-      - institution: Drexel University
-        location: Philadelphia, PA
-        area: Computer Science
-        studyType: PhD
-        start_date: "2025"
-        end_date: "Present"
-        highlights:
-          - 'Advisor: Li "Harry" Zhang'
-          - 'GPA: 4.00/4.00'
+sections:
+  education:
+    - institution: Drexel University
+      area: Computer Science
+      studyType: PhD
+      start_date: "2025"
+      end_date: "Present"
+      description:
+        - Advisor: Li "Harry" Zhang
+        - GPA: 4.00/4.00
 
-      - institution: University of Pennsylvania
-        location: Philadelphia, PA
-        area: Computer and Information Science
-        studyType: Master of Science in Engineering
-        start_date: 2022
-        end_date: 2024
-        highlights:
-          - 'GPA: 3.63/4.00'
+    - institution: University of Pennsylvania
+      area: Computer and Information Science
+      studyType: Master of Science in Engineering
+      start_date: "2022"
+      end_date: "2024"
+      description:
+        - GPA: 3.63/4.00
 
-      - institution: Boston University
-        location: Boston, MA
-        area: Mathematics and Computer Science
-        studyType: Bachelor of Arts
-        start_date: 2018
-        end_date: 2022
-        highlights:
-          - 'GPA: 3.93/4.00 (summa cum laude)'
-          - Dean's List (Fall 2018 - Fall 2021)
-          - Thomas M. Menino Scholarship Recipient
+    - institution: Boston University
+      area: Mathematics and Computer Science
+      studyType: Bachelor of Arts
+      start_date: "2018"
+      end_date: "2022"
+      description:
+        - GPA: 3.93/4.00 (summa cum laude)
+        - Dean's List (Fall 2018 - Fall 2021)
+        - Thomas M. Menino Scholarship Recipient
 
+  research_experience:
+    - title: PhD Student
+      institution: Drexel University
+      start_date: "2024"
+      end_date: "Present"
+      description:
+        - Lead research projects on LLM-based formalization for planning problems.
+        - Evaluate LLM-as-formalizer in constrained environments.
 
-    Research Experience:
-      - title: PhD Student
-        institution: Drexel University
-        location: Philadelphia, PA
-        start_date: "2024"
-        end_date: "Present"
-        description:
-          - Lead two complete research projects involving collaboration across institutions, resulting in NLP publications.
-          - Leverage LLMs to auto-formalize complex reasoning and planning problems.
-          - Evaluate LLM-as-formalizer in realistic planning tasks with constrained environments.
+    - title: Student Researcher
+      institution: University of Pennsylvania
+      start_date: "2023"
+      end_date: "2024"
+      description:
+        - Extract lexical features for authorship attribution.
+        - Fine-tune BERT embeddings for analysis.
 
-      - title: Student Researcher
-        institution: University of Pennsylvania
-        location: Philadelphia, PA
-        start_date: "2023"
-        end_date: "2024"
-        description:
-          - Extract interpretable lexical and stylistic features for authorship attribution.
-          - Fine-tune BERT Sentence Transformers for embedding-based analysis.
+    - title: Student Researcher
+      institution: Boston University
+      start_date: "2019"
+      end_date: "2019"
+      description:
+        - Studied ambiguity in natural language annotations.
+        - Designed MTurk annotation experiments.
 
-      - title: Student Researcher
-        institution: Boston University
-        location: Boston, MA
-        start_date: "2019"
-        end_date: "2019"
-        description:
-          - Studied ambiguity in natural language annotations using tracking datasets.
-          - Designed MTurk experiments using HTML.
+  publications:
+    - title: Zur Elektrodynamik bewegter Körper
+      authors: [Albert Einstein]
+      publisher: Annalen der Physik
+      releaseDate: 1905-06-30
+      url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
+      summary: Special relativity paper.
 
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+  skills:
+    - name: Physics
+      level: Master
+      keywords:
+        - Quantum Mechanics
+        - Quantum Computing
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+  interests:
+    - name: Physics
+      keywords:
+        - Quantum Mechanics
+        - Quantum Computing
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
-
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+  projects:
+    - name: Quantum Computing
+      summary: Quantum computation using quantum-mechanical phenomena.
+      start_date: "2018-01-01"
+      end_date: "2018-01-01"
+      highlights:
+        - Quantum Teleportation
+        - Quantum Cryptography
