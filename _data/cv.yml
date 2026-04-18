@@ -10,7 +10,7 @@ cv:
     - network: GitHub
       username: CassieHuang22
     - network: LinkedIn
-      username: https://www.linkedin.com/in/cassie-huang-35b396185/
+      username: cassie-huang-35b396185
 
   address:
     street: 3675 Market Street, Room 914
@@ -52,44 +52,34 @@ cv:
           - Thomas M. Menino Scholarship Recipient
 
 
-    Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+    Research Experience:
+      - company: Drexel University
+        position: PhD Student
+        location: Philadelphia, PA
+        start_date: "2024"
+        end_date: "Present"
         highlights:
-          - Relativity
-          - Description 2.
+          - Lead two complete research projects involving collaboration of students and faculty members across different institutions, resulting in publications in top NLP conferences.
+          - Leverage code-generation ability of open-sourced and closed-sourced LLMs to auto-formalize complex problems, leading to more robust and trustworthy performance than LLM agents.
+          - Conduct the first in-depth evaluation of LLM-as-formalizer in realistic planning tasks. Created planning datasets that contain different levels of language naturalness and real-world constraints to make planning problems more realistic. Ongoing work includes extensions to POMDPSs and biosynthesis.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: University of Pennsylvania
+        position: Student Researcher
+        location: Philadelphia, PA
+        start_date: 2023
+        end_date: 2024
         highlights:
-          - Description 1.
-          - Description 2.
+          - Collaborate with students and professors across multiple institutions to extract interpretable, lexical and stylistic features used for authorship attribution.
+          - Fine-tune BERT Sentence Transformer models to create embeddings representations of text. Embeddings are then used to extract features.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
+      - company: Boston University
+        position: Student Researcher
+        location: Boston, MA
+        start_date: 2019
+        end_date: 2019
+        highlights:
+          - Use videos from object tracking datasets to verify and quantify ambiguity of natural language annotations for targeted objects, and obtain new NL annotations and improve image tracking performance.
+          - Designed Amazon Mechanical Turk (MTurk) Experiments given to workers, using HTML, to gather information regarding descriptions for targeted objects.
 
     Publications:
       - title: Zur Elektrodynamik bewegter Körper
