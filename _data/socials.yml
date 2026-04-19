@@ -4,8 +4,8 @@
 cv_pdf: /assets/pdf/CassieHuang.pdf # path to your CV PDF file
 email: ch3535@drexel.edu # your email address
 scholar_userid: zzTgT0UAAAAJ # your Google Scholar ID
-linkedin: https://www.linkedin.com/in/cassie-huang-35b396185/
-github: https://github.com/CassieHuang22
+linkedin_username: cassie-huang-35b396185/
+github_username: CassieHuang22
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 #custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
