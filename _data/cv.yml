@@ -74,3 +74,47 @@ cv:
         highlights:
           - Studied ambiguity in natural language annotations using tracking datasets.
           - Designed MTurk experiments using HTML.
+
+    Publications:
+      - title: "On the Limit of Language Models as Planning Formalizers"
+        authors:
+          - Cassie Huang
+          - Li Zhang
+        date: '2025-07'
+        journal: "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)"
+        url: https://aclanthology.org/2025.acl-long.242/
+
+      - title: "Language Model as Planner and Formalizer under Constraints"
+        authors:
+          - Cassie Huang
+          - Stuti Mohan
+          - Ziyi Yang
+          - Stefanie Tellex
+          - Li Zhang
+        date: '2026'
+        journal: "arXiv preprint arXiv:2510.05486"
+        url: https://arxiv.org/abs/2510.05486
+
+      - title: "Unifying Inference-Time Planning Language Generation"
+        authors:
+          - Prabhu Prakash Kagitha
+          - Bo Sun
+          - Ishan Desai
+          - Andrew Zhu
+          - Cassie Huang
+          - Manling Li
+          - Ziyang Li
+          - Li Zhang
+        date: '2025'
+        journal: "arXiv preprint arXiv:2505.14763"
+        url: https://arxiv.org/abs/2505.14763
+
+      - title: "Language Model Planners do not Scale, but do Formalizers?"
+        authors:
+          - Owen Jiang
+          - Cassie Huang
+          - Ashish Sabharwal
+          - Li Zhang
+        date: '2026'
+        journal: "arXiv preprint arXiv:2603.23844"
+        url: https://arxiv.org/abs/2603.23844
