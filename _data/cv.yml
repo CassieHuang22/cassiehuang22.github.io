@@ -1,55 +1,45 @@
 cv:
   name: Cassie Huang
-  email: Cassie.Huang@drexel.edu 
-  location: Philadelphia, PA 
-  image: "" 
-  summary: I'm a second year PhD student at Drexel University, advised by Prof. Harry Zhang. My research focuses on Natural Language Processing and Large Language Models (LLMs). My current projects involve using LLMs to generate formal language for planning and reasoning problems, and applying auto-formalization to different domains, including partially observable environments. 
+  email: Cassie.Huang@drexel.edu
+  location: Philadelphia, PA
+  social_networks:
+    - network: GitHub
+      username: CassieHuang22
+    - network: LinkedIn
+      username: cassie-huang-35b396185
 
-  social_networks: 
-    - network: GitHub 
-      username: CassieHuang22 
-    - network: LinkedIn 
-      username: cassie-huang-35b396185 
+  sections:
+    Education:
+      - institution: Drexel University
+        location: Philadelphia, PA
+        area: Computer Science
+        degree: PhD
+        start_date: '2025-09'
+        end_date: present
+        highlights:
+          - 'Advisor: Li "Harry" Zhang'
+          - 'GPA: 4.00/4.00'
 
-  address: 
-    street: 3675 Market Street, Room 914 
-    city: Philadelphia 
-    region: Pennsylvania 
-    postalCode: PA 19104 
-    countryCode: US 
-    
-  sections: 
-    Education: 
-      - institution: Drexel University 
-        location: Philadelphia, PA 
-        area: Computer Science 
-        degree: PhD 
-        start_date: "2025" 
-        end_date: "Present" 
-        highlights: 
-          - 'Advisor: Li "Harry" Zhang' 
-          - 'GPA: 4.00/4.00' 
-          
-      - institution: University of Pennsylvania 
-        location: Philadelphia, PA 
-        area: Computer and Information Science 
-        degree: Master of Science in Engineering 
-        start_date: 2022 
-        end_date: 2024 
-        highlights: 
-          - 'GPA: 3.63/4.00' 
-      
-      - institution: Boston University 
-        location: Boston, MA 
-        area: Mathematics and Computer Science 
-        degree: Bachelor of Arts 
-        start_date: 2018 
-        end_date: 2022 
-        highlights: 
-          - 'GPA: 3.93/4.00 (summa cum laude)' 
-          - Dean's List (Fall 2018 - Fall 2021) 
-          - Thomas M. Menino Scholarship Recipient 
-          
+      - institution: University of Pennsylvania
+        location: Philadelphia, PA
+        area: Computer and Information Science
+        degree: Master of Science in Engineering
+        start_date: '2022-09'
+        end_date: '2024-05'
+        highlights:
+          - 'GPA: 3.63/4.00'
+
+      - institution: Boston University
+        location: Boston, MA
+        area: Mathematics and Computer Science
+        degree: Bachelor of Arts
+        start_date: '2018-09'
+        end_date: '2022-05'
+        highlights:
+          - 'GPA: 3.93/4.00 (summa cum laude)'
+          - "Dean's List (Fall 2018 - Fall 2021)"
+          - Thomas M. Menino Scholarship Recipient
+
     Research Experience:
       - company: Drexel University
         position: PhD Student
@@ -78,48 +68,3 @@ cv:
         highlights:
           - Studied ambiguity in natural language annotations using tracking datasets.
           - Designed MTurk experiments using HTML.
-          
-    Publications: 
-      - title: Zur Elektrodynamik bewegter Körper 
-        authors: 
-          - Albert Einstein 
-        publisher: Annalen der Physik 
-        releaseDate: 1905-06-30 
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies 
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source. 
-        
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt 
-        authors: 
-          - Albert Einstein 
-        publisher: Annalen der Physik 
-        releaseDate: 1905-03-18 
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt 
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921. 
-        
-      - title: Die Grundlage der allgemeinen Relativitätstheorie 
-        authors: 
-          - Albert Einstein 
-        publisher: Annalen der Physik 
-        releaseDate: 1916-03-20 
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie 
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914). 
-        
-    Skills: 
-      - name: Physics 
-        level: Master 
-        icon: fa-solid fa-hashtag 
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation" 
-        
-    Interests: 
-      - name: Physics 
-        icon: fa-solid fa-tag 
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation" 
-        
-    Projects: 
-      - name: Quantum Computing 
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers. 
-        highlights: 
-          - Quantum Teleportation 
-          - Quantum Cryptography 
-        start_date: 2018-01-01 
-        end_date: 2018-01-01
