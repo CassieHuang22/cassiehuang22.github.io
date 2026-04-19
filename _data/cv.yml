@@ -1,6 +1,12 @@
 cv:
   name: Cassie Huang
   email: Cassie.Huang@drexel.edu
+  address:
+    street: 3675 Market Street, Room 914
+    city: Philadelphia
+    region: Pennsylvania
+    postalCode: PA 19104
+  countryCode: US
   location: Philadelphia, PA
   social_networks:
     - network: GitHub
