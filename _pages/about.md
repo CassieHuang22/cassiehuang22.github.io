@@ -28,7 +28,7 @@ Hi! I'm Cassie!
 
 I'm a second year PhD student at Drexel University, advised by [Prof. Harry Zhang](https://zharry29.github.io/).
 
-I received my MES in Computer and Information Science at the University of Pennsylvania, where I worked with [Prof. Chris Callison-Burch](https://www.cis.upenn.edu/~ccb/). I recevied my BA in Mathematics and Computer Science at Boston University.
+I received my MSE in Computer and Information Science at the University of Pennsylvania, where I worked with [Prof. Chris Callison-Burch](https://www.cis.upenn.edu/~ccb/). I recevied my BA in Mathematics and Computer Science at Boston University.
 
 My research focuses on Natural Language Processing and Large Language Models (LLMs). My current projects involve:
 
