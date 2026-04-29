@@ -112,3 +112,15 @@ cv:
         date: '2026'
         journal: "arXiv preprint arXiv:2603.23844"
         url: https://arxiv.org/abs/2603.23844
+
+    Service:
+      - bullet: "Reviewer, COLM 2025 Workshop AIA"
+      - bullet: "Reviewer, ACL ARR January 2026"
+      - bullet: "Reviewer, ACL 2026 Workshop SURGeLLM"
+
+    Teaching:
+      - bullet: "Course Assistant, CS237, Boston University, Fall 2021, Spring 2022"
+      - bullet: "Teaching Assistant, CIS5210, University of Pennsylvania, Fall 2023, Fall 2024, Spring 2025"
+      - bullet: "Teaching Assistant, CIS5200, University of Pennsylvania, Spring 2024"
+      - bullet: "Teaching Assistant, CIS5300, University of Pennsylvania, Summer 2024, Spring 2025"
+      - bullet: "Teaching Assistant, CS-T780, Drexel University, Spring 2025"
