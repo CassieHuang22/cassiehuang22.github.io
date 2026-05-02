@@ -116,7 +116,7 @@ cv:
     Service:
       - bullet: "Reviewer, [COLM 2025 Workshop AIA](https://sites.google.com/view/aia-workshop/)"
       - bullet: "Reviewer, [ACL ARR January 2026](https://openreview.net/group?id=aclweb.org/ACL/ARR)"
-      - bullet: "[ACL 2026 Workshop SURGeLLM](https://surgellm.github.io/acl2026/)"
+      - bullet: "Reviewer, [ACL 2026 Workshop SURGeLLM](https://surgellm.github.io/acl2026/)"
 
     Teaching:
       - bullet: "Course Assistant, CS237: Probability in Computing, Boston University, Fall 2021, Spring 2022"
