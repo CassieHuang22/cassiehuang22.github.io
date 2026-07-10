@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-06'
+  last_updated: '2026-07-10'
 papers:
   zzTgT0UAAAAJ:9yKSN-GCB0IC:
     citations: 1
@@ -7,12 +7,12 @@ papers:
     year: '2026'
   zzTgT0UAAAAJ:d1gkVwhDpl0C:
     citations: 2
-    title: Unifying Inference-Time Planning Language Generation
-    year: '2025'
+    title: Unifying inference-time planning language generation
+    year: '2026'
   zzTgT0UAAAAJ:u-x6o8ySG0sC:
     citations: 3
-    title: Language Model as Planner and Formalizer under Constraints
-    year: '2025'
+    title: Language model as planner and formalizer under constraints
+    year: '2026'
   zzTgT0UAAAAJ:u5HHmVD_uO8C:
     citations: 17
     title: On the limit of language models as planning formalizers
