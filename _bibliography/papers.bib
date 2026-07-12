@@ -26,35 +26,62 @@
 
 }
 
-@misc{huang2026languagemodelplannerformalizer,
-      title={Language Model as Planner and Formalizer under Constraints}, 
-      author={Cassie Huang and Stuti Mohan and Ziyi Yang and Stefanie Tellex and Li Zhang},
-      year={2026},
-      eprint={2510.05486},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2510.05486}, 
-      selected={true},
-      code={https://github.com/CassieHuang22/llm-as-formalizer-constraints},
-      preview={llm-as-formalizer+constraint.png},
-      abbr={ACL2026},
-      paper = {https://arxiv.org/abs/2510.05486},
-      abstract = {LLMs have been widely used in planning, either as planners to generate action sequences end-to-end, or as formalizers to represent the planning domain and problem in a formal language that can derive plans deterministically. However, both lines of work rely on standard benchmarks that include only generic and simplistic environmental specifications, leading to potential overestimation of the planning ability of LLMs and safety concerns in downstream tasks. We bridge this gap by augmenting widely used planning benchmarks with manually annotated, fine-grained, and rich natural language constraints spanning four formally defined categories. Over 4 state-of-the-art reasoning LLMs, 4 formal languages, and 4 datasets, we show that the introduction of one-sentence constraints consistently halves performance, indicating current LLMs' lack of robustness and an avenue for future research.}
+@inproceedings{huang-etal-2026-language,
+    title = "Language Model as Planner and Formalizer under Constraints",
+    author = "Huang, Cassie  and
+      Mohan, Stuti  and
+      Yang, Ziyi  and
+      Tellex, Stefanie  and
+      Zhang, Li",
+    editor = "Liakata, Maria  and
+      Moreira, Viviane P.  and
+      Zhang, Jiajun  and
+      Jurgens, David",
+    booktitle = "Proceedings of the 64th Annual Meeting of the {A}ssociation for {C}omputational {L}inguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2026",
+    address = "San Diego, California, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.acl-long.624/",
+    doi = "10.18653/v1/2026.acl-long.624",
+    pages = "13724--13756",
+    ISBN = "979-8-89176-390-6",
+    abstract = "LLMs have been widely used in planning, either as planners to generate action sequences end-to-end, or as formalizers to represent the planning domain and problem in a formal language that can derive plans deterministically. However, both lines of work rely on standard benchmarks that include only generic and simplistic environmental specifications, leading to potential overestimation of the planning ability of LLMs and safety concerns in downstream tasks. We bridge this gap by augmenting widely used planning benchmarks with manually annotated, fine-grained, and rich natural language constraints spanning four formally defined categories. Over 4 state-of-the-art reasoning LLMs, 4 formal languages, and 4 datasets, we show that the introduction of one-sentence constraints consistently halves performance, indicating current LLMs' lack of robustness and an avenue for future research.",
+    selected = {true},
+    code={https://github.com/CassieHuang22/llm-as-formalizer-constraints},
+    preview={llm-as-formalizer+constraint.png},
+    abbr={ACL2026},
+    paper = {"https://aclanthology.org/2026.acl-long.624/"}
 }
 
-@misc{kagitha2025unifyinginferencetimeplanninglanguage,
-      title={Unifying Inference-Time Planning Language Generation}, 
-      author={Prabhu Prakash Kagitha and Bo Sun and Ishan Desai and Andrew Zhu and Cassie Huang and Manling Li and Ziyang Li and Li Zhang},
-      year={2025},
-      eprint={2505.14763},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2505.14763}, 
-      paper={https://arxiv.org/abs/2505.14763},
-      preview={formulation.png},
-      abbr={ACL2026},
-      abstract={A line of work in planning uses LLM not to generate a plan, but to generate a formal representation in some planning language, which can be input into a symbolic solver to deterministically find a plan. While showing improved trust and promising performance, dozens of recent publications have proposed scattered methods on a variety of benchmarks under different experimental settings. We attempt to unify the inference-time LLM-as-formalizer methodology for classical planning by proposing a unifying framework based on intermediate representations. We thus systematically evaluate more than a dozen pipelines that subsume most existing work, while proposing novel ones that involve syntactically similar but high resource intermediate languages (such as a Python wrapper of PDDL). We provide recipes for planning language generation pipelines, draw a series of conclusions showing the efficacy of their various components, and evidence their robustness against problem complexity.},
-      code={https://github.com/prakashkagitha/llm-pddl-gen} 
+@inproceedings{kagitha-etal-2026-unifying,
+    title = "Unifying Inference-Time Planning Language Generation",
+    author = "Kagitha, Prabhu Prakash  and
+      Sun, Bo  and
+      Desai, Ishan  and
+      Zhu, Andrew  and
+      Huang, Cassie  and
+      Li, Manling  and
+      Li, Ziyang  and
+      Zhang, Li",
+    editor = "Liakata, Maria  and
+      Moreira, Viviane P.  and
+      Zhang, Jiajun  and
+      Jurgens, David",
+    booktitle = "Findings of the {A}ssociation for {C}omputational {L}inguistics: {ACL} 2026",
+    month = jul,
+    year = "2026",
+    address = "San Diego, California, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.findings-acl.415/",
+    doi = "10.18653/v1/2026.findings-acl.415",
+    pages = "8531--8574",
+    ISBN = "979-8-89176-395-1",
+    abstract = "A line of work in planning uses LLM not to generate a plan, but to generate a formal representation in some planning language, which can be input into a symbolic solver to deterministically find a plan. While showing improved trust and promising performance, dozens of recent publications have proposed scattered methods on a variety of benchmarks under different experimental settings. We attempt to unify the inference-time LLM-as-formalizer methodology for classical planning by proposing a unifying organizational framework based on intermediate representations. We thus systematically evaluate more than a dozen pipelines that subsume most existing work, while proposing novel ones that involve syntactically similar but high-resource intermediate languages (such as a Python wrapper of PDDL). We provide recipes for planning language generation pipelines, draw a series of conclusions showing the efficacy of their various components, and evidence their robustness against problem complexity.",
+    code={https://github.com/prakashkagitha/llm-pddl-gen},
+    preview={formulation.png},
+    abbr={ACL2026},
+    paper={"https://aclanthology.org/2026.findings-acl.415/"}
 }
 
 @misc{jiang2026languagemodelplannersscale,
