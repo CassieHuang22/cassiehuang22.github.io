@@ -85,9 +85,9 @@ cv:
           - Ziyi Yang
           - Stefanie Tellex
           - Li Zhang
-        date: '2026'
-        journal: "arXiv preprint arXiv:2510.05486"
-        url: https://arxiv.org/abs/2510.05486
+        date: '2026-07'
+        journal: "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)"
+        url: https://aclanthology.org/2026.acl-long.624/
 
       - title: "Unifying Inference-Time Planning Language Generation"
         authors:
@@ -100,10 +100,10 @@ cv:
           - Ziyang Li
           - Li Zhang
         date: '2025'
-        journal: "arXiv preprint arXiv:2505.14763"
-        url: https://arxiv.org/abs/2505.14763
+        journal: "Findings of the Association for Computational Linguistics: ACL 2026"
+        url: https://aclanthology.org/2026.findings-acl.415/
 
-      - title: "Language Model Planners do not Scale, but do Formalizers?"
+      - title: "Language Models as Higher-Order Planning Formalizers"
         authors:
           - Owen Jiang
           - Cassie Huang

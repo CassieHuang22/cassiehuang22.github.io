@@ -83,8 +83,8 @@
     paper={"https://aclanthology.org/2026.findings-acl.415/"}
 }
 
-@misc{jiang2026languagemodelplannersscale,
-      title={Language Model Planners do not Scale, but do Formalizers?}, 
+@misc{jiang2026languagemodelshigherorderplanning,
+      title={Language Models as Higher-Order Planning Formalizers}, 
       author={Owen Jiang and Cassie Huang and Ashish Sabharwal and Li Zhang},
       year={2026},
       eprint={2603.23844},
@@ -93,6 +93,6 @@
       url={https://arxiv.org/abs/2603.23844}, 
       paper={https://arxiv.org/abs/2603.23844},
       preview={unraveling.png},
-      abstract={Recent work shows overwhelming evidence that LLMs, even those trained to scale their reasoning trace, perform unsatisfactorily when solving planning problems too complex. Whether the same conclusion holds for LLM formalizers that generate solver-oriented programs remains unknown. We systematically show that LLM formalizers greatly out-scale LLM planners, some retaining perfect accuracy in the classic BlocksWorld domain with a huge state space of size up to 10^165. While performance of smaller LLM formalizers degrades with problem complexity, we show that a divide-and-conquer formalizing technique can greatly improve its robustness. Finally, we introduce unraveling problems where one line of problem description realistically corresponds to exponentially many lines of formal language such as the Planning Domain Definition Language (PDDL), greatly challenging LLM formalizers. We tackle this challenge by introducing a new paradigm, namely LLM-as-higher-order-formalizer, where an LLM generates a program generator. This decouples token output from the combinatorial explosion of the underlying formalization and search space.},
+      abstract={Recent work provides overwhelming evidence that LLMs, even those trained to scale their reasoning trace, quickly deteriorate at planning as problems become more complex. LLM-as-Formalizers aim to address this by employing LLMs as a bridge to translate natural language descriptions into structured planning representations such as PDDL, which are then fed to a programmatic solver. We observe that its success may be overstated because planning problem descriptions in standard benchmarks often have a one-to-one mapping to PDDL, which departs from real use cases. To address this, we introduce the notion of unraveling problems where a natural yet succinct description translates into a very large PDDL representation. Using unraveling variants of four standard planning domains, we demonstrate that LLM Formalizers also do not always scale. We tackle this challenge by introducing a new paradigm, LLM-as-Higher-Order-Formalizer, where the LLM generates a high-level program that captures the recurrent logic within the description and in turn generates the larger PDDL representation. This decouples token output from the combinatorial explosion of the underlying formalization and search space, leading to improved performance for complex problems.},
       abbr={arXiv}
 }
