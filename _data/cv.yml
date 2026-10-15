@@ -113,10 +113,28 @@ cv:
         journal: "arXiv preprint arXiv:2603.23844"
         url: https://arxiv.org/abs/2603.23844
 
+      - title: "Asymmetric Capacity Allocation in Self-Refinement Pipelines"
+        authors:
+          - Zhuoyi Yang
+          - Ian G. Harris
+          - Salar Hashemitaheri
+          - Cassie Huang
+          - Yuangang Li
+          - Hyunwoo Oh
+          - Paul Dourish
+          - Tony Givargis
+          - Mohsen Imani
+          - Li Zhang
+        date: '2026'
+        journal: "arXiv preprint arXiv:2608.21345"
+        url: https://arxiv.org/abs/2608.21345
+
+
     Service:
       - bullet: "Reviewer, [COLM 2025 Workshop AIA](https://sites.google.com/view/aia-workshop/)"
       - bullet: "Reviewer, [ACL ARR January 2026](https://openreview.net/group?id=aclweb.org/ACL/ARR)"
       - bullet: "Reviewer, [ACL 2026 Workshop SURGeLLM](https://surgellm.github.io/acl2026/)"
+      - bullet: "Reviewer, [ACL ARR August 2026](https://openreview.net/group?id=aclweb.org/ACL/ARR)"
 
     Teaching:
       - bullet: "Course Assistant, CS237: Probability in Computing, Boston University, Fall 2021, Spring 2022"

@@ -96,3 +96,17 @@
       abstract={Recent work provides overwhelming evidence that LLMs, even those trained to scale their reasoning trace, quickly deteriorate at planning as problems become more complex. LLM-as-Formalizers aim to address this by employing LLMs as a bridge to translate natural language descriptions into structured planning representations such as PDDL, which are then fed to a programmatic solver. We observe that its success may be overstated because planning problem descriptions in standard benchmarks often have a one-to-one mapping to PDDL, which departs from real use cases. To address this, we introduce the notion of unraveling problems where a natural yet succinct description translates into a very large PDDL representation. Using unraveling variants of four standard planning domains, we demonstrate that LLM Formalizers also do not always scale. We tackle this challenge by introducing a new paradigm, LLM-as-Higher-Order-Formalizer, where the LLM generates a high-level program that captures the recurrent logic within the description and in turn generates the larger PDDL representation. This decouples token output from the combinatorial explosion of the underlying formalization and search space, leading to improved performance for complex problems.},
       abbr={arXiv}
 }
+
+@misc{yang2026asymmetriccapacityallocationselfrefinement,
+      title={Asymmetric Capacity Allocation in Self-Refinement Pipelines}, 
+      author={Zhuoyi Yang and Ian G. Harris and Salar Hashemitaheri and Cassie Huang and Yuangang Li and Hyunwoo Oh and Paul Dourish and Tony Givargis and Mohsen Imani and Li Zhang},
+      year={2026},
+      eprint={2608.21345},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2608.21345}, 
+      paper={https://arxiv.org/abs/2608.21345},
+      preview={pipeline.drawio.png},
+      abstract={Self-refinement, typically structured as generation, critique, and revision, is a widely adopted paradigm for improving LLM generation and serves as a core mechanism in many LLM agents. While the three stages involve different cognitive demands, most existing approaches conveniently treat the model size as an implementation detail rather than a subject of study, which may lead to a waste of resources. Little work has systematically examined how model size affects each stage or whether effective self-refinement requires equally capable models for generation, critique, and revision. We present the first stage-wise model size study of the self-refinement pipeline on 5 benchmarks from different domains using 6 model sizes of Qwen3 and 4 model sizes of Gemma 3. We conclude that larger generators and refiners generally improve the pipeline, whereas an undersized refiner can even harm performance. Second, performance is highly insensitive to the size of the critic, although including even a small critic consistently outperforms omitting critique altogether. Our findings demonstrate that model capacity should not be allocated uniformly across self-refinement pipelines. Instead, different stages exhibit distinct size scaling characteristics, providing practical guidance for designing more computationally efficient multi-stage language model systems."},
+      abbr={arXiv}
+}
