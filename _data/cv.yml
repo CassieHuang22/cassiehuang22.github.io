@@ -129,6 +129,21 @@ cv:
         journal: "arXiv preprint arXiv:2608.21345"
         url: https://arxiv.org/abs/2608.21345
 
+      - title: "Planning Commitment of LLM under Partial Observability"
+        authors:
+          - Cassie Huang
+          - Zhanwei Cao
+          - Yeawon Lee
+          - Nathalia Gomez
+          - Zhuoyi Yang
+          - Ian G. Harris
+          - Tiffany D. Do
+          - Jiayuan Mao
+          - Li Zhang
+        date: '2026'
+        journal: "arXiv preprint arXiv:2610.21108"
+        url: https://arxiv.org/abs/2610.21108
+
 
     Service:
       - bullet: "Reviewer, [COLM 2025 Workshop AIA](https://sites.google.com/view/aia-workshop/)"
