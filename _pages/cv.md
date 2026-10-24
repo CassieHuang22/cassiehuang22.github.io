@@ -1,5 +1,6 @@
 ---
 layout: cv
+cv_format: rendercv
 permalink: /cv/
 title: CV
 nav: true
