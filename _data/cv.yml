@@ -160,4 +160,5 @@ cv:
       - bullet: "Guest Lecture, CS614 and CS-T780, Drexel University, Spring 2026"
 
     Work Authorization:
-      - bullet: "U.S. Citizen — No sponsorship required"
+      - label: Status
+        details: "U.S. Citizen — No sponsorship required"
