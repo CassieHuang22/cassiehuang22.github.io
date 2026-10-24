@@ -14,29 +14,29 @@ cv:
         location: Philadelphia, PA
         area: Computer Science
         degree: PhD
-        start_date: '2025-09'
+        start_date: "2025-09"
         end_date: present
         highlights:
           - 'Advisor: Li "Harry" Zhang'
-          - 'GPA: 4.00/4.00'
+          - "GPA: 4.00/4.00"
 
       - institution: University of Pennsylvania
         location: Philadelphia, PA
         area: Computer and Information Science
         degree: Master of Science in Engineering
-        start_date: '2022-09'
-        end_date: '2024-05'
+        start_date: "2022-09"
+        end_date: "2024-05"
         highlights:
-          - 'GPA: 3.63/4.00'
+          - "GPA: 3.63/4.00"
 
       - institution: Boston University
         location: Boston, MA
         area: Mathematics and Computer Science
         degree: Bachelor of Arts
-        start_date: '2018-09'
-        end_date: '2022-05'
+        start_date: "2018-09"
+        end_date: "2022-05"
         highlights:
-          - 'GPA: 3.93/4.00 (summa cum laude)'
+          - "GPA: 3.93/4.00 (summa cum laude)"
           - "Dean's List (Fall 2018 - Fall 2021)"
           - Thomas M. Menino Scholarship Recipient
 
@@ -44,7 +44,7 @@ cv:
       - company: Drexel University
         position: PhD Student
         location: Philadelphia, PA
-        start_date: '2024-09'
+        start_date: "2024-09"
         end_date: present
         highlights:
           - Lead two complete research projects involving collaboration across institutions, resulting in NLP publications.
@@ -54,8 +54,8 @@ cv:
       - company: University of Pennsylvania
         position: Student Researcher
         location: Philadelphia, PA
-        start_date: '2023-09'
-        end_date: '2024-05'
+        start_date: "2023-09"
+        end_date: "2024-05"
         highlights:
           - Extract interpretable lexical and stylistic features for authorship attribution.
           - Fine-tune BERT Sentence Transformers for embedding-based analysis.
@@ -63,8 +63,8 @@ cv:
       - company: Boston University
         position: Student Researcher
         location: Boston, MA
-        start_date: '2019-06'
-        end_date: '2019-08'
+        start_date: "2019-06"
+        end_date: "2019-08"
         highlights:
           - Studied ambiguity in natural language annotations using tracking datasets.
           - Designed MTurk experiments using HTML.
@@ -74,7 +74,7 @@ cv:
         authors:
           - Cassie Huang
           - Li Zhang
-        date: '2025-07'
+        date: "2025-07"
         journal: "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)"
         url: https://aclanthology.org/2025.acl-long.242/
 
@@ -85,7 +85,7 @@ cv:
           - Ziyi Yang
           - Stefanie Tellex
           - Li Zhang
-        date: '2026-07'
+        date: "2026-07"
         journal: "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)"
         url: https://aclanthology.org/2026.acl-long.624/
 
@@ -99,7 +99,7 @@ cv:
           - Manling Li
           - Ziyang Li
           - Li Zhang
-        date: '2026'
+        date: "2026"
         journal: "Findings of the Association for Computational Linguistics: ACL 2026"
         url: https://aclanthology.org/2026.findings-acl.415/
 
@@ -109,7 +109,7 @@ cv:
           - Cassie Huang
           - Ashish Sabharwal
           - Li Zhang
-        date: '2026'
+        date: "2026"
         journal: "arXiv preprint arXiv:2603.23844"
         url: https://arxiv.org/abs/2603.23844
 
@@ -125,7 +125,7 @@ cv:
           - Tony Givargis
           - Mohsen Imani
           - Li Zhang
-        date: '2026'
+        date: "2026"
         journal: "arXiv preprint arXiv:2608.21345"
         url: https://arxiv.org/abs/2608.21345
 
@@ -140,10 +140,9 @@ cv:
           - Tiffany D. Do
           - Jiayuan Mao
           - Li Zhang
-        date: '2026'
+        date: "2026"
         journal: "arXiv preprint arXiv:2610.21108"
         url: https://arxiv.org/abs/2610.21108
-
 
     Service:
       - bullet: "Reviewer, [COLM 2025 Workshop AIA](https://sites.google.com/view/aia-workshop/)"
